@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Yash
 - 👀 I’m interested in programming and automation
 - 🌱 I’m currently learning data analytics
-- 📫 You can reach me via my email
+- 📫 You can reach me via my email or my LinkedIn profile
